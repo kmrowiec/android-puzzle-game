@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">PuzzleGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_puzzle">Puzzle</string>
+    <string name="title_activity_main_menu">PuzzleGame - Main Menu</string>
+    <string name="mainmenu_title">Puzzle Game</string>
+    <string name="mainmenu_resume">Resume game</string>
+    <string name="mainmenu_newgame">New game</string>
+    <string name="title_activity_new_game_menu">NewGameMenuActivity</string>
+    <string name="newgamemenu_title">New game</string>
+    <string name="newgamemenu_gamesize">"size : "</string>
+    <string name="newgamemenu_image">Choose image</string>
+    <string name="newgamemenu_ok">PLAY</string>
+    <string name="newgamemenu_back">Back to main menu</string>
+    <string name="gamesize_verysmall">Very small (2x3)</string>
+    <string-array name="gamesizes">
+        <item >Very small</item>
+        <item >Small</item>
+        <item >Medium</item>
+        <item >Large</item>
+    </string-array>
+        <string name="newgamemenu_pickimage">Select image</string>
+        <string name="newgamemenu_button_pickbuiltin">Game </string>
+        <string name="newgamemenu_button_pickfromsd">Phone memory</string>
+        <string name="newgamemenu_button_shootphoto">Photo</string>
+        <string name="pausemenu_title">GAME PAUSED</string>
+        <string name="pausemenu_resume">RESUME</string>
+        <string name="pausemenu_quit_to_main">QUIT TO MAIN MENU</string>
+
+</resources>
